@@ -7,7 +7,7 @@ setup(name = 'factorial',
     platforms = ["Linux"],
     author="Adarsh Pathak",
     author_email="adarshp199877@gmail.com",
-    url="http://pymbook.readthedocs.org/en/latest/",
+    url="https://github.com/adarshp199877/factorial",
     license = "MIT",
     packages=find_packages()
     )

@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(name = 'factorial',
     version = '0.1',
     description = "Factorial module.",
-    long_description = "A test module for our book.",
+    long_description = "A test module for PyPI.",
     platforms = ["Linux"],
     author="Adarsh Pathak",
     author_email="adarshp199877@gmail.com",
